@@ -52,7 +52,7 @@ Here's a breakdown of the process depicted:
 
     ***Samples***
 
-   - Chunking Image : [Click here](./prototype/03.chunking_imgs.ipynb)
+   - Chunking Image : [Click here](./prototype/02.chunking_imgs.ipynb)
 
 4. Reorganize and merge the text, images and tables to complete the real chunking
 
